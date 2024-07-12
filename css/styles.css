@@ -1,0 +1,45 @@
+/* Custom styles */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.jumbotron {
+    background-color: #f8f9fa;
+    padding: 2rem;
+}
+
+footer {
+    background-color: #f8f9fa;
+    padding: 1rem 0;
+}
+
+footer p {
+    margin: 0;
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.img-cls {
+    width: 350px;
+    height: 250px;
+}
+
+.height-cls {
+    height: 20em;
+}
+
+.rounded-circle-custom {
+    border-radius: 15% !important;
+    height: 260px;
+    width: 157px;
+}
+
+.height-adjust {
+    height: 235px;
+}
